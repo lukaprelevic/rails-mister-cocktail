@@ -26,6 +26,7 @@ gem 'simple_form'
 gem 'autoprefixer-rails'
 ruby '2.3.5'
 gem 'figaro'
+gem 'cloudinary'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
